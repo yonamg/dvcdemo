@@ -1,0 +1,4 @@
+[core]
+    remote = dvcdata1
+['remote "dvcdata1"']
+    url = tmp/dvcdata1
